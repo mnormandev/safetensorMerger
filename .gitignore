@@ -1,0 +1,10 @@
+# Model files - merged outputs are saved in this folder by default
+*.safetensors
+*.safetensors.part
+
+.idea
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
